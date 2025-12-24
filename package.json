@@ -3,4 +3,7 @@
     "bootstrap": "^5.3.8",
     "react-bootstrap": "^2.10.10"
   }
+  "scripts": {
+  "test": "echo \"No tests yet\" && exit 0"
+}
 }
