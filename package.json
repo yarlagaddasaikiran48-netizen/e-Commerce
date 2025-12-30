@@ -7,6 +7,7 @@
     "react-bootstrap": "^2.10.10"
   },
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"No build step yet\""
   }
 }
